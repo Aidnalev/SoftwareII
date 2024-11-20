@@ -70,4 +70,7 @@ Actualmente, hemos establecido comunicación con el otro equipo y estamos trabaj
 
 ---
 
-¡Gracias por visitar nuestro proyecto! Si tienes preguntas o sugerencias, no dudes en contactarnos.
+Gracias por revisar nuestro proyecto
+![Stella](https://github.com/user-attachments/assets/bde43503-8ead-451c-932b-9d204ca11b1b)
+
+
